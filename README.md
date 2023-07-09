@@ -16,14 +16,4 @@ Deliverable: A .zip file containing the database schema, EF model classes, and t
 (BONUS) Cloud and DevOps
 Task: Set up the application on Azure or AWS cloud, using their own cloud service if preferred. Configure a CI/CD pipeline in Azure DevOps for continuous integration, testing, and deployment.
 Deliverable: Links to the deployed application and the GitHub repository. Include a brief document outlining the steps taken to set up the CI/CD pipeline and deploy the app on the cloud.
-Getting Started
-To run and test the application, follow the instructions provided in the respective README files included in each deliverable package.
 
-Resources
-React JS
-.NET Core
-MySQL or SQL Server
-Azure or AWS
-Azure DevOps
-License
-This project is licensed under the MIT License.
